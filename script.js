@@ -6,7 +6,7 @@ let dots = document.querySelectorAll(".dot");
 let counter = 0;
 let deleteInterval;
 
-// Add click event to the indicators
+// Add click event to the indicators 
 dots.forEach((dot) => {
   dot.addEventListener("click", function () {
     switchTest(this);
