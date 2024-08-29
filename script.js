@@ -2,7 +2,7 @@
 let testSlide = document.querySelectorAll(".testItem");
 // Access the indicators
 let dots = document.querySelectorAll(".dot");
-
+ 
 let counter = 0;
 let deleteInterval;
 
